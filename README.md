@@ -1,4 +1,4 @@
-# aoc-2022
+# aoc-2023
 My solutions for AoC 2023
 
 
