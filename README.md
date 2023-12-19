@@ -1,4 +1,4 @@
-# aoc-2022
+# aoc-2023
 My solutions for AoC 2023
 
 
@@ -21,7 +21,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kevin Yuan - [@kevyuan](https://twitter.com/kevyuan) 
 
-Project Link: [https://github.com/kevyuan/aoc-2022](https://github.com/kevyuan/aoc-2023)
+Project Link: [https://github.com/kevyuan/aoc-2023](https://github.com/kevyuan/aoc-2023)
 
 
 
